@@ -6,7 +6,7 @@ Pygame is a module which can help the user for game development in Python.
 
 # How to Install Pygame
 
-Got to CMD:- pip install pygame
+Go to CMD:- pip install pygame
 
 # Starter Template
 
